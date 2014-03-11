@@ -1,0 +1,26 @@
+{
+  "name": "SEFD",
+  "version": "0.1.0",
+  "description": "Make frontend development simpler and easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zmmbreeze/SEFD.git"
+  },
+  "keywords": [
+    "frontend",
+    "tool",
+    "web",
+    "simpler",
+    "easier"
+  ],
+  "author": "zmmbreeze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zmmbreeze/SEFD/issues"
+  },
+  "homepage": "https://github.com/zmmbreeze/SEFD"
+}
